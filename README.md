@@ -1,4 +1,4 @@
-# React - weather-app
+# React - Weather App
 
 https://anuragbansal009.github.io/react-weather-app/
 
